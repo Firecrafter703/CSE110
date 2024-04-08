@@ -1,4 +1,4 @@
 # CSE110
-This is my repsoitory
+This is my repository
 Dillon's user page.
-
+My favorite language is Java.

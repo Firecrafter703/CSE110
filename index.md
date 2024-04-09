@@ -2,11 +2,13 @@
 ## Who am I
 My name is **Dillon Kim** a computer engineer student!
 
->We live in a world of contradictions, but thats not entirely a bad thing.
 Goals
 1. Improve my skills with Github
 2. Improve my overall skill in problem solving and coding
 3. Improve my skills with Visual Studios
+
+>We live in a world of contradictions, but thats not entirely a bad thing.
+
 
 Important Links for reference \
 Basic Markdown Info:

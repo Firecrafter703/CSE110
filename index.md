@@ -10,5 +10,7 @@ Basic Markdown Info:
 Markdown References:
 [Markdown References] (https://www.markdownguide.org/getting-started/)\
 ### How to use the command line
-
+There are 3 important commands to know for the command line.\
 [CommandLine](screenshot/CSE110(1).JPG)
+### VS Code UI
+[VSCodeUI](screenshot/CSE110(2).JPG)

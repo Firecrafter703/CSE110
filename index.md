@@ -22,6 +22,7 @@ git status
 git add
 git command
 ```
+status is used for listing all new or modified files that havent been commited.
 ### Screenshots
 * GitCommandLine-There are 3 important commands to know for the command line:
 [CommandLine](screenshot/CSE110(1).JPG)

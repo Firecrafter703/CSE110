@@ -2,7 +2,7 @@
 ## Who am I
 My name is **Dillon Kim** a computer engineer student!
 
-Goals\
+Goals
 1. Improve my skills with Github
 2. Improve my overall skill in problem solving and coding
 3. Improve my skills with Visual Studios

@@ -20,7 +20,7 @@ Goals
 
 >We live in a world of contradictions, but thats not entirely a bad thing.
 
-
+## Information for reference as a software engineer
 Important Links for reference \
 Basic Markdown Info:
 [Basic Markdown Info](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)\

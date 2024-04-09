@@ -11,4 +11,4 @@ Markdown References:
 [Markdown References] (https://www.markdownguide.org/getting-started/)\
 ### How to use the command line
 
-[CommandLine](screenshot)
+[CommandLine](screenshot/CSE110(1).JPG)

@@ -13,4 +13,5 @@ Markdown References:
 There are 3 important commands to know for the command line.\
 [CommandLine](screenshot/CSE110(1).JPG)
 ### VS Code UI
+Here is the screenshot for using the VSCODEUI.\
 [VSCodeUI](screenshot/CSE110(2).JPG)

@@ -15,6 +15,13 @@ Basic Markdown Info:
 [Basic Markdown Info](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)\
 Markdown References:
 [Markdown References] (https://www.markdownguide.org/getting-started/)\
+
+Imporant Basic Git commands
+```
+git status
+git add
+git command
+```
 ### Screenshots
 * GitCommandLine-There are 3 important commands to know for the command line:
 [CommandLine](screenshot/CSE110(1).JPG)
